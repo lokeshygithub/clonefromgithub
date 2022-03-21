@@ -1,3 +1,6 @@
 i am in file-01 line-01
 i am in file-01 line-02
 i am in file-01 line-03
+i am in file-01 line-04
+i am in file-01 line-05
+i am in file-01 line-06
